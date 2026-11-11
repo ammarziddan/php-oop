@@ -1,6 +1,6 @@
-# PHP 8.1 Features
+# PHP Object Oriented Programming
 
-Personal learning repository containing examples and notes about new features in PHP 8.1
+Personal learning repository containing learning materials about PHP Object Oriented Programming.
 
 ## Course Reference
 
